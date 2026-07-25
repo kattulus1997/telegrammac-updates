@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TelegramMac</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 25 Jul 2026 21:52:26 +0100</pubDate>
+            <sparkle:version>202607252048</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac-0.1.0-202607252048-stable.dmg" length="32096995" type="application/octet-stream" sparkle:edSignature="zGuvzJ9c54+JsjWIrcau3xtIm5oso9533D9WvJAutgF+eGtZBbKVpwMBZNCr0eTjIlYU5oXOTPS6agtA+J6QBg=="/>
+        </item>
+    </channel>
+</rss>
