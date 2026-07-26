@@ -4,6 +4,22 @@
         <title>TelegramMac</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 26 Jul 2026 14:16:18 +0100</pubDate>
+            <sparkle:version>202607261306</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac-0.1.0-202607261306-stable.dmg" length="32109997" type="application/octet-stream" sparkle:edSignature="GAdMAdRgf/SKDQANzOQIZSeQ9LRsr1nH9w1zYtbeoK6LdY25kz7bTsiRswbLfKLuK2FVFJcGNY/ckRoDQ03kCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac202607261306-202607261245.delta" sparkle:deltaFrom="202607261245" length="24098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X9a6TG7wBW/Q7hnls0Gp9k1YHOF+fvc/gVgaxkecPBDlxDo5lVmgdbdsYyheauP3Ek9n7zidaYhK1KVsCoLHCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac202607261306-202607261013.delta" sparkle:deltaFrom="202607261013" length="314362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rHyFv3gUxgCcM2xc9uy43KJJX5ixgF8oNnodlFP4hbbw0TXjQH58wr3iL9V5rNiWjH0ZSijpPSO6KFZyTDp1Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac202607261306-202607252226.delta" sparkle:deltaFrom="202607252226" length="502226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p5Qt6nuta+u8xP/wO9diu/JuBwVzSX0WSUFpMuiaGjrkDj8kjTpQbeuqIiT9wMqnqBTPg9P+VxI/nIP+G84dBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac202607261306-202607252125.delta" sparkle:deltaFrom="202607252125" length="515070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d0u2rYSLHaT05FPbyh2opJpl+s00yjPFF43uP737sDDSs6GcyXCi9sjCna1mk1m61ykVVnxfy2f1gyeKuutWDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/kattulus1997/telegrammac-updates/main/TelegramMac202607261306-202607252113.delta" sparkle:deltaFrom="202607252113" length="983186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jBwIq8DQ2aiaaQvlrwicSl5IzvurbX0guyRojjlroKg5b6GVV9yaeKtPpUm1xD7p7GAEyEjTRrLVhZaAzqUiCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 26 Jul 2026 13:05:46 +0100</pubDate>
             <sparkle:version>202607261245</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
